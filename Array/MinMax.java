@@ -2,6 +2,7 @@ package Array;
 
 import java.util.*;
 
+@SuppressWarnings("unused")
 public class MinMax {
     public int[] getMinMax(int[] arr) {
         if (arr == null || arr.length == 0) {
