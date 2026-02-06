@@ -1,3 +1,5 @@
+package LinkedList.Questions;
+
 public class DeleteNthNodeLL {
     static class Node {
         int data;

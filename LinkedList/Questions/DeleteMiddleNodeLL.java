@@ -1,3 +1,5 @@
+package LinkedList.Questions;
+
 public class DeleteMiddleNodeLL {
     static class Node {
         int data;

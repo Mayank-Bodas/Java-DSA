@@ -1,3 +1,5 @@
+package LinkedList.Questions;
+
 public class DetectCycleHeadLL {
     static class Node {
         int data;
